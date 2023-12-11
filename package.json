@@ -1,0 +1,22 @@
+{
+  "name": "jinglecode",
+  "displayName": "JingleCode",
+  "description": "Unwrap the joy of coding with JingleCode – where every line sparkles like holiday lights, and functions dance merrily on your screen. From JingleJunctions to PeppermintPointers, your variables don festive attire, making coding as delightful as sipping hot cocoa by the fireplace. Bugs? They've turned into cheerfully disguised feature requests! With error messages as gentle as snowflakes and debugging feeling like unwrapping presents, JingleCode turns your coding experience into a holly, jolly adventure. Get ready to sleigh your code challenges and infuse your editor with the festive spirit of the season. Happy coding and happy holidays! 🎄✨",
+  "version": "0.0.1",
+  "publisher": "ayyucedemirbas",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "JingleCode",
+        "uiTheme": "vs-dark",
+        "path": "./themes/JingleCode-color-theme.json"
+      }
+    ]
+  }
+}
